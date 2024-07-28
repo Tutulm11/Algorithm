@@ -1,2 +1,1 @@
-# Algorithm
-#Some algorithm code 
+Algorithm Code
