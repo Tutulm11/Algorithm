@@ -36,7 +36,7 @@ void Merge(int *A,int left,int mid,int right)
     {
         A[k++]=L[i++];
     }
-    while(j<=n1-1)
+    while(j<=n2-1)
     {
         A[k++]=R[j++];
     }
